@@ -154,8 +154,10 @@ export function Footer({ onNavigate }: FooterProps) {
                 <Facebook size={18} />
               </a>
               <a
-                href="#"
+                href="https://www.instagram.com/estudio_robles.farias/?igsh=djRwOTJscHV2ZDNv#"
                 className="w-10 h-10 bg-white/10 hover:bg-[#c9a961] rounded-lg flex items-center justify-center transition-colors"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <Instagram size={18} />
               </a>
